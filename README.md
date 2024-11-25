@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venky</h1>
 <h3 align="center">A passionate computer science student interested in Machine Learning!!</h3>
 
-- 🔭 I’m currently working on **Deep Learning based parking slot Monitoring**
+- 🔭 I’m currently working on **Deep Learning based parking slot Monitoring**, check it out here [github.com/AMG-190e-EVO2](https://github.com/AMG-190e-EVO2/Smart_Parking_System)
 
 - 🌱 I’m currently learning **Neural Networks, Deep Learning & Tensorflow**
 
