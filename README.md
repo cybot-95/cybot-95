@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Neural Networks, Deep Learning & Tensorflow**
 
-- 👨‍💻 All of my projects are available at [github.com/cybot-95](github.com/cybot-95)
+- 👨‍💻 All of my projects are available at [github.com/cybot-95](github.com/cybot-95), [github.com/AMG-190e-EVO2](https://github.com/AMG-190e-EVO2/Smart_Parking_System)
 
 - 📫 How to reach me **venkyndharwad95@gmail.com**
 
