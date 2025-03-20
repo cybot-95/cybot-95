@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venky</h1>
 <h3 align="center">A passionate computer science student interested in Machine Learning!!</h3>
 
-- 🔭 I’m currently working on **Collaborative Filtering Based Places Recommender**, will be out soon to check it out!
+- 🔭 I’m currently working on **Collaborative Filtering Based Places Recommender**, check it out here [Trip Buddy: Let's Explore](https://github.com/cybot-95/Trip-Buddy)
 
 - 🌱 I’m currently learning **Neural Networks, Deep Learning & Tensorflow**
 
